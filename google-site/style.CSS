@@ -1,0 +1,39 @@
+
+.header{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	text-align: right;
+}
+
+li{
+	display:inline;
+}
+
+.main{
+	text-align:center;
+
+	#formulaire{
+position:absolute;
+top:311px;
+}
+}
+
+.footer{
+	position: fixed;
+	bottom: 0;
+}
+
+#icone-header{
+	background-image: url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+	background-size: 528px 68px;
+	:;
+}
+
+#footer-left{
+	float: left;
+}
+
+#footer-right{
+	text-align: right;
+}
